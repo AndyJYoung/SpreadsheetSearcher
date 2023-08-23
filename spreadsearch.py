@@ -29,4 +29,4 @@ df2 = pd.DataFrame(currws.get(pos))
 #print(val_list)
 
 df1 = pd.concat([df1, df2], ignore_index=True)
-print(df1) 
+print(df1)
